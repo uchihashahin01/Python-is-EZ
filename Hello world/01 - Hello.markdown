@@ -141,7 +141,6 @@ Let’s try three beginner-friendly challenges to get comfortable with `print()`
 
 ```python
 print("Hello World!")
-
 ```
 
 **How It Works**:
