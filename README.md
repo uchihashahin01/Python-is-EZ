@@ -6,7 +6,7 @@ Welcome to the **Python Programming Course**! This repository is your gateway to
 
 ## 📋 Table of Contents
 
-- [Hello World 🌍](#)
+- [Hello World 🌍](https://github.com/uchihashahin01/Python-is-EZ/tree/main/Hello%20world)
 - [Variables 🧮](#)
 - [Control Flow 🎮](#)
 - [Control Flow Challenge 🏆](#)
@@ -21,8 +21,8 @@ Welcome to the **Python Programming Course**! This repository is your gateway to
 
 Kick off your Python journey with the basics! Learn to print output and create fun patterns.
 
-- [**01 - Hello**](#) *(Demo link to be uploaded)*
-- [**02 - Pattern**](#) *(Demo link to be uploaded)*
+- [**01 - Hello**](#) *(https://github.com/uchihashahin01/Python-is-EZ/blob/main/Hello%20world/01%20-%20Hello.markdown)*
+- [**02 - Pattern**](#) *(https://github.com/uchihashahin01/Python-is-EZ/blob/main/Hello%20world/02%20-%20Pattern.markdown)*
 - [**03 - Initials**](#) *(Demo link to be uploaded)*
 - [**04 - Snail Mail**](#) *(Demo link to be uploaded)*
 
