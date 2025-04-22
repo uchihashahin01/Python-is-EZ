@@ -1,6 +1,6 @@
 # 🅰️ Creating Block Initials with Print and Comments 🅰️
 
-Welcome to the **Initials** challenge, a fun and creative way to practice using the **print()** function and **comments** in Python! This beginner-friendly problem asks you to display your initials in block letters, like a big, bold sign, while adding a comment to share a fun fact about yourself. In this note, we’ll break down the problem, explain the requirements, and provide a step-by-step solution to craft your initials. Let’s make your name shine! ✨
+Welcome to the **Initials** challenge, a fun and creative way to practice using the **print()** function and **comments** in Python! This problem asks you to display your initials in block letters, like a big, bold sign, while adding a comment to share a fun fact about yourself. In this note, we’ll break down the problem, explain the requirements, and provide a step-by-step solution to craft your initials. Let’s make your name shine! ✨
 
 ---
 
