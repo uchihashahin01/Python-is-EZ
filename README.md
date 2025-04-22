@@ -23,7 +23,7 @@ Kick off your Python journey with the basics! Learn to print output and create f
 
 - [**01 - Hello**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/Hello%20world/01%20-%20Hello.markdown)
 - [**02 - Pattern**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/Hello%20world/02%20-%20Pattern.markdown)
-- [**03 - Initials**](#) *(Demo link to be uploaded)*
+- [**03 - Initials**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/Hello%20world/03%20-%20Initials.markdown)
 - [**04 - Snail Mail**](#) *(Demo link to be uploaded)*
 
 ---
