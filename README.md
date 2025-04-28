@@ -7,7 +7,7 @@ Welcome to the **Python Programming Course**! This repository is your gateway to
 ## 📋 Table of Contents
 
 - [Hello World 🌍](https://github.com/uchihashahin01/Python-is-EZ/tree/main/001%20-%20Hello%20world)
-- [Variables 🧮](#) *(Demo link to be uploaded)*
+- [Variables 🧮](https://github.com/uchihashahin01/Python-is-EZ/tree/main/002%20-%20Variables)
 - [Control Flow 🎮](#) *(Demo link to be uploaded)*
 - [Control Flow Challenge 🏆](#) *(Demo link to be uploaded)*
 - [Loops 🔄](#) *(Demo link to be uploaded)*
@@ -32,7 +32,7 @@ Kick off your Python journey with the basics! Learn to print output and create f
 
 Discover the power of variables! Explore data types, operators, and user input to build dynamic programs.
 
-- [**01 - Data Types**](#) *(Demo link to be uploaded)*
+- [**01 - Data Types**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/01%20-%20Data%20Types.markdown)
     - [011 - Additional Data Types](#) *(Demo link to be uploaded)*
 - [**02 - Operators**](#) *(Demo link to be uploaded)*
 - [**03 - Exponents**](#) *(Demo link to be uploaded)*
