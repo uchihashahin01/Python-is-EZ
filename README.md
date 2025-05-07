@@ -33,12 +33,12 @@ Kick off your Python journey with the basics! Learn to print output and create f
 Discover the power of variables! Explore data types, operators, and user input to build dynamic programs.
 
 - [**01 - Data Types**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/01%20-%20Data%20Types.markdown)
-    - [011 - Additional Data Types](#) *(Demo link to be uploaded)*
-- [**02 - Operators**](#) *(Demo link to be uploaded)*
-- [**03 - Exponents**](#) *(Demo link to be uploaded)*
-- [**04 - User Input**](#) *(Demo link to be uploaded)*
-- [**05 - Converting Currencies**](#) *(Demo link to be uploaded)*
-- [**06 - Errors in Python**](#) *(Demo link to be uploaded)*
+    - [011 - Additional Data Types](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/011%20-%20Additional%20Data%20Types.markdown) 
+- [**02 - Operators**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/02%20-%20Operators.markdown) 
+- [**03 - Exponents**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/03%20-%20Exponents.markdown) 
+- [**04 - User Input**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/04%20-%20User%20Input.markdown) 
+- [**05 - Converting Currencies**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/05%20-%20Converting%20Currencies.markdown) 
+- [**06 - Errors in Python**](https://github.com/uchihashahin01/Python-is-EZ/blob/main/002%20-%20Variables/06%20-%20Errors%20in%20Python.markdown)
 
 ---
 
