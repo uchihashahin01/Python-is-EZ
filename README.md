@@ -8,7 +8,7 @@ Welcome to the **Python Programming Course**! This repository is your gateway to
 
 - [Hello World 🌍](https://github.com/uchihashahin01/Python-is-EZ/tree/main/001%20-%20Hello%20world)
 - [Variables 🧮](https://github.com/uchihashahin01/Python-is-EZ/tree/main/002%20-%20Variables)
-- [Control Flow 🎮](#) *(Demo link to be uploaded)*
+- [Control Flow 🎮](https://github.com/uchihashahin01/Python-is-EZ/tree/main/003%20-%20Control%20Flow)
 - [Control Flow Challenge 🏆](#) *(Demo link to be uploaded)*
 - [Loops 🔄](#) *(Demo link to be uploaded)*
 - [Loop Challenge 🎯](#) *(Demo link to be uploaded)*
